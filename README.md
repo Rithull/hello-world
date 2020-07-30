@@ -1,4 +1,4 @@
-# hello-world
+# Hello World
 Just another repository
 
 hi friends my self rithull and i like to make programs and new new technologies so,
